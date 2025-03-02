@@ -1,11 +1,11 @@
-    <h1 align="center">Hi 👋, I'm Aniruddha</h1>
+<h1 align="center">Hi 👋, I'm Aniruddha</h1>
     <h3 align="center">A passionate developer, who is eager to learn everything to become a best developer</h3>
 
-    <p align="left"> <img
+<p align="left"> <img
             src="https://komarev.com/ghpvc/?username=code-aniruddha&label=Profile%20views&color=0e75b6&style=flat"
             alt="code-aniruddha" /> </p>
 
-    - 🌱 I’m currently learning **React Native, Python**
+ - 🌱 I’m currently learning **React Native, Python**
 
     - 💬 Ask me about **React, Java, Javascript**
 
